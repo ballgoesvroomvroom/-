@@ -1,5 +1,5 @@
 # -
 
-really busy memorising 7 different textbooks for school
+really busy eating school textbooks like its a buffet 🍽️
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballgoesvroomvroom)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=ballgoesvroomvroom&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
